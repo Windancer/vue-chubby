@@ -1,4 +1,4 @@
-# vue-webpack
+# vue-chubby
 
 > A Vue.js project chubby
 
